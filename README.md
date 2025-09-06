@@ -39,22 +39,6 @@ Plotly
 
 Streamlit
 
-▶️ Como executar o projeto
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/dashboard-salarios.git
-
-
-Instale as dependências:
-
-pip install -r requirements.txt
-
-
-Execute o Streamlit:
-
-streamlit run projeto.py
-
 🎯 Resultado
 
 Com esse dashboard é possível explorar os dados de forma intuitiva e visual, obtendo insights sobre salários na área de dados ao redor do mundo.
