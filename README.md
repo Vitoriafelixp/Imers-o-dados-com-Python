@@ -5,7 +5,7 @@ Este projeto foi desenvolvido durante a Imersão Dados com Python da Alura e tem
 
 Durante a imersão aprendi a tratar, analisar e visualizar dados utilizando Pandas, Plotly, Seaborn, Matplotlib e Streamlit. No projeto final, transformei esses aprendizados em um dashboard interativo.
 
-🚀 O que você vai encontrar neste projeto
+*O que você vai encontrar neste projeto*
 
 Filtros interativos por ano, senioridade, tipo de contrato e tamanho da empresa
 
