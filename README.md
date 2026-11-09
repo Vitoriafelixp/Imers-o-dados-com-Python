@@ -1,4 +1,4 @@
-# Imersão-dados-com-Python
+# Imersão dados com Python
 Dashboard de Salários na Área de Dados
 
 Este projeto foi desenvolvido durante a Imersão Dados com Python da Alura e tem como objetivo explorar e visualizar informações sobre salários na área de tecnologia.
@@ -29,7 +29,7 @@ Proporção de modalidades de trabalho (presencial, remoto, híbrido)
 
 Mapa interativo com salários médios de Cientistas de Dados por país
 
-🛠️ Tecnologias utilizadas
+*Tecnologias utilizadas*
 
 Python
 
@@ -39,6 +39,6 @@ Plotly
 
 Streamlit
 
-🎯 Resultado
+*Resultado*
 
 Com esse dashboard é possível explorar os dados de forma intuitiva e visual, obtendo insights sobre salários na área de dados ao redor do mundo.
